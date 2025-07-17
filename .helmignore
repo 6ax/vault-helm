@@ -27,3 +27,5 @@
 .gitlab-ci.yml
 test/
 scratch/
+.cr-index
+.cr-release-packages

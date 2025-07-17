@@ -12,3 +12,5 @@ vaul-helm-dev-creds.json
 ./test/acceptance/values.yml
 .idea
 scratch/
+.cr-index
+.cr-release-packages
